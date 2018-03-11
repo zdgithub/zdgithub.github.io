@@ -9,6 +9,6 @@
 即可将改动推送到github的默认分支，已经设置为hexo分支
 4. hexo d -g 发布网站到master分支
 
-## 当在其它电脑上更改时
+当在其它电脑上更改时
 1. git clone 仓库名
 2. 在该仓库文件夹下执行：npm install hexo ; npm install ; npm install hexo-deployer-git
