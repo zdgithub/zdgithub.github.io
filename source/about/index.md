@@ -1,5 +1,5 @@
 ---
-date: 2018-01-14 23:01:50
+title: Publications
 ---
 {% cq %} 让成长带你穿透迷茫！ {% endcq %}
 
