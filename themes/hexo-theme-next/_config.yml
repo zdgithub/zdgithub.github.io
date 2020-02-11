@@ -96,7 +96,8 @@ menu:
   about: /about/ || user
   tags: /tags/ || tags
   categories: /categories/ || th
-  archives: /archives/ || calendar-check-o
+  publications: /publications || fa-paper-plane
+  #archives: /archives/ || calendar-check-o
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
