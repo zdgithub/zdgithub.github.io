@@ -92,7 +92,8 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  Home: /home || home
+  Home: / || home
+  About: /about || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
   Publications: /publications || calendar
@@ -164,7 +165,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: false
+  number: true
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
