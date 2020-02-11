@@ -92,11 +92,10 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  home: / || home
-  about: /about/ || user
-  tags: /tags/ || tags
-  categories: /categories/ || th
-  publications: /publications || fa-paper-plane
+  Home: /home || home
+  #tags: /tags/ || tags
+  #categories: /categories/ || th
+  Publications: /publications || calendar
   #archives: /archives/ || calendar-check-o
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
@@ -128,8 +127,8 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  简书: https://www.jianshu.com/u/beba6f7898a5
-  知乎: https://www.zhihu.com/people/zizhan-86
+  Jianshu: https://www.jianshu.com/u/beba6f7898a5
+  Zhihu: https://www.zhihu.com/people/zizhan-86
   GitHub: https://github.com/zdgithub || github
   CSDN: http://blog.csdn.net/zizahn
   #E-Mail: mailto:yourname@gmail.com || envelope
@@ -165,7 +164,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false

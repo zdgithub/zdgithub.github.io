@@ -1,6 +1,5 @@
 ---
-title: Publications
-date: 2020-02-11 12:27:37
-comments: false
+title: 
+date: 2020-02-11 13:27:26
 ---
-Here is something about my publications
+This will be a list of publications.
