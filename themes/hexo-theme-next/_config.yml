@@ -128,8 +128,6 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  Jianshu: https://www.jianshu.com/u/beba6f7898a5
-  Zhihu: https://www.zhihu.com/people/zizhan-86
   GitHub: https://github.com/zdgithub || github
   CSDN: http://blog.csdn.net/zizahn
   #E-Mail: mailto:yourname@gmail.com || envelope
